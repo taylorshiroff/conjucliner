@@ -1,0 +1,4 @@
+infinitive,1p_sing,2p_sing,3p_sing,1p_plur,2p_plur,3p_plur,definition
+мати,маю,маєш,має,маємо,маєте,мають,to have
+радити,раджу,радиш,радить,радимо,радите,радять,"to advise, to counsel, to recommend (somebody to do something — кому́сь (dative) + infinitive)"
+продавати,продаю,продаєш,продає,продаємо,продаєте,продають,to sell (to agree to transfer goods or provide services)
